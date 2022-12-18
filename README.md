@@ -26,7 +26,7 @@ a Menu App with Search Filter and Dark mode
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
