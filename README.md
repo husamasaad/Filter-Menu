@@ -1,6 +1,7 @@
 # Filters
 
-\*\*Project description
+**Project description**
+
 a Menu App with Search Filter and Dark mode
 
 ## Table of contents
