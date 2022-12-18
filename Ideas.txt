@@ -1,0 +1,17 @@
+-- Create the HTML markup: (doen)
+---- nav bar (done)
+---- section for the main part (done)
+---- a card with a picture and title and price (doen)
+
+-- Style the page (done)
+---- nav bar on the side for desktop and on top for mobile (done)
+---- a responsive Grid contains the cards (done)
+
+-- add filter functionality (done)
+---- seletc items (done)
+---- get the clicks (done)
+---- change menu functionality (done)
+---- handle the search onchange event (done)
+
+
+-- Apply Dark Mode
